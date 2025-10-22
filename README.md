@@ -1,3 +1,4 @@
+WEBSITE PEMBAYARAN SPP
 Program ini adalah aplikasi web untuk mengelola pembayaran SPP (Sumbangan Pembinaan Pendidikan) sekolah. Dibangun untuk memudahkan petugas sekolah, bendahara, dan admin dalam mencatat, melacak, dan melaporkan pembayaran siswa secara terstruktur dan aman.
 
 Siapa yang memakai dan kenapa
@@ -63,3 +64,4 @@ Tambahan untuk developer / teknis singkat
 Proyek kemungkinan menggunakan PHP (karena jalur XAMPP) dan MySQL.
 Untuk fitur cetak biasanya digunakan library print/convert HTML ke PDF.
 Untuk ekspor laporan bisa ditambahkan fitur export CSV/Excel
+
